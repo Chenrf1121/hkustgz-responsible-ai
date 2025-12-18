@@ -1,14 +1,14 @@
 ---
 type: lecture
-date: 2025-11-10T10:00:00+8:00
-title: Lecture 11 - AI in High-Stakes Domains
-tldr: "Responsible AI considerations in healthcare, criminal justice, and other critical applications"
+date: 2025-11-17T10:00:00+8:00
+title: Lecture 11 - LLM-based Agentic Systems
+tldr: "This lecture explores the transition from static Large Language Models (LLMs) to autonomous agents that can reason, use tools, and interact with the world"
 thumbnail: /static_files/presentations/lec.jpg
-links: []
+links:
+    - url: /static_files/presentations/lecture_12_agentic_systems.pdf
+      name: slides
 ---
 **Topics Covered:**
-- AI in healthcare
-- AI in criminal justice
-- High-stakes decision making
-
-*Note: Lecture materials to be added*
+- From LLM to Agent
+- Agentic Architectures
+- Multi-Agent Systems
