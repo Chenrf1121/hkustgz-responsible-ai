@@ -4,7 +4,7 @@ course_description: "This course explores the ethical, social, and technical cha
 course_semester: "Spring 2025"
 
 baseurl: "/hkustgz-responsible-ai" # the subpath of your site, e.g. /blog/
-url: "https://YOUR-USERNAME.github.io/" # the base hostname & protocol for your site
+url: "https://chenrf1121.github.io/" # the base hostname & protocol for your site
 
 schoolname: "HKUST-GZ"
 schoolurl: "https://www.hkust-gz.edu.cn/"
