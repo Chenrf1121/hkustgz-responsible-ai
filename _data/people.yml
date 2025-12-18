@@ -1,0 +1,13 @@
+instructors:
+  - name: [Instructor Name - To Be Updated]
+    profile_pic: /_images/pp/instructor.jpg
+    webpage: https://www.hkust-gz.edu.cn/
+
+teaching_assistants:
+  - name: [TA Name 1 - To Be Updated]
+    profile_pic: /_images/pp/ta1.jpg
+    webpage:
+
+  - name: [TA Name 2 - To Be Updated]
+    profile_pic: /_images/pp/ta2.jpg
+    webpage:
