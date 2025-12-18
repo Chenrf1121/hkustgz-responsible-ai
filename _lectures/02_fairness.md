@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-02-10T10:00:00+8:00
+date: 2025-09-08T10:00:00+8:00
 title: Fairness and Bias in AI
 tldr: "Understanding algorithmic bias, fairness metrics, and techniques for building fair ML systems."
 thumbnail: /static_files/presentations/lecture02.jpg

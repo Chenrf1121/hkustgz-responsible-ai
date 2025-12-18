@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-02-03T10:00:00+8:00
+date: 2025-09-01T10:00:00+8:00
 title: Introduction to Responsible AI
 tldr: "Overview of responsible AI, ethical challenges in AI systems, and course introduction."
 thumbnail: /static_files/presentations/lecture01.jpg

@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-02-17T10:00:00+8:00
+date: 2025-09-15T10:00:00+8:00
 title: Explainability and Interpretability
 tldr: "Methods and techniques for making AI systems transparent and interpretable."
 thumbnail: /static_files/presentations/lecture03.jpg

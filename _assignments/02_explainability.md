@@ -1,12 +1,12 @@
 ---
 type: assignment
-date: 2025-02-20T10:00:00+8:00
+date: 2025-09-25T10:00:00+8:00
 title: 'Assignment #2: Model Explainability'
 pdf: /static_files/assignments/assignment2.pdf
 attachment: /static_files/assignments/assignment2_starter_code.zip
 due_event:
     type: due
-    date: 2025-03-12T23:59:00+8:00
+    date: 2025-10-23T23:59:00+8:00
     description: 'Assignment #2 due'
 ---
 

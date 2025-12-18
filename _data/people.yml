@@ -1,13 +1,21 @@
 instructors:
-  - name: [Instructor Name - To Be Updated]
+  - name: Sihong Xie
     profile_pic: /_images/pp/instructor.jpg
-    webpage: https://www.hkust-gz.edu.cn/
+    webpage: https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIE-Sihong/sihongxie
 
 teaching_assistants:
-  - name: [TA Name 1 - To Be Updated]
+  - name: Rufeng Chen
     profile_pic: /_images/pp/ta1.jpg
     webpage:
 
-  - name: [TA Name 2 - To Be Updated]
+  - name: Rui Xu
     profile_pic: /_images/pp/ta2.jpg
+    webpage:
+
+  - name: Jiujiu Chen
+    profile_pic: /_images/pp/ta3.jpg
+    webpage:
+
+  - name: Yazheng Liu
+    profile_pic: /_images/pp/ta4.jpg
     webpage:

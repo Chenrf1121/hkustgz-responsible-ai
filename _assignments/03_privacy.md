@@ -1,12 +1,12 @@
 ---
 type: assignment
-date: 2025-03-13T10:00:00+8:00
+date: 2025-10-24T10:00:00+8:00
 title: 'Assignment #3: Privacy-Preserving ML'
 pdf: /static_files/assignments/assignment3.pdf
 attachment: /static_files/assignments/assignment3_starter_code.zip
 due_event:
     type: due
-    date: 2025-04-02T23:59:00+8:00
+    date: 2025-11-14T23:59:00+8:00
     description: 'Assignment #3 due'
 ---
 

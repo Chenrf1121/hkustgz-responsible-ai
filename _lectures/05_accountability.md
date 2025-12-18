@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-03-03T10:00:00+8:00
+date: 2025-09-29T10:00:00+8:00
 title: Accountability and Governance
 tldr: "AI governance frameworks, regulations, and organizational practices for responsible AI."
 thumbnail: /static_files/presentations/lecture05.jpg

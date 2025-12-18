@@ -1,12 +1,12 @@
 ---
 type: assignment
-date: 2025-02-05T10:00:00+8:00
+date: 2025-09-03T10:00:00+8:00
 title: 'Assignment #1: Bias Detection and Analysis'
 pdf: /static_files/assignments/assignment1.pdf
 attachment: /static_files/assignments/assignment1_starter_code.zip
 due_event:
     type: due
-    date: 2025-02-19T23:59:00+8:00
+    date: 2025-09-24T23:59:00+8:00
     description: 'Assignment #1 due'
 ---
 

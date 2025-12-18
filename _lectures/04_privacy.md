@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-02-24T10:00:00+8:00
+date: 2025-09-22T10:00:00+8:00
 title: Privacy in AI Systems
 tldr: "Privacy-preserving machine learning, differential privacy, and federated learning."
 thumbnail: /static_files/presentations/lecture04.jpg
