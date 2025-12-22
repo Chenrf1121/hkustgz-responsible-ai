@@ -5,7 +5,7 @@ title: Lecture 2 - Transformer and Vision Models
 tldr: "Deep dive into Transformer architecture and its applications in computer vision, including ViT, CLIP, SAM, and multi-modal models"
 thumbnail: /static_files/presentations/lec.jpg
 links:
-    - url: /static_files/presentations/lecture_2.pdf
+    - url: /static_files/presentations/lecture_2.pptx
       name: slides
 ---
 **Topics Covered:**
