@@ -5,7 +5,7 @@ title: Lecture 11 - LLM-based Agentic Systems
 tldr: "This lecture explores the transition from static Large Language Models (LLMs) to autonomous agents that can reason, use tools, and interact with the world"
 thumbnail: /static_files/presentations/lec.jpg
 links:
-    - url: /static_files/presentations/lecture_12_agentic_systems.pdf
+    - url: #/static_files/presentations/lecture_12_agentic_systems.pdf
       name: slides
 ---
 **Topics Covered:**

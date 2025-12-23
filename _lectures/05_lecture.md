@@ -5,7 +5,7 @@ title: Lecture 5 - AI Safety and Robustness
 tldr: "The vulnerability of AI systems to malicious attacks and environmental noise."
 thumbnail: /static_files/presentations/lec.jpg
 links:
-    - url: /static_files/presentations/lecture_5.pdf
+    - url: #/static_files/presentations/lecture_5.pdf
       name: slides
 ---
 **Topics Covered:**

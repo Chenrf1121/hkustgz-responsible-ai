@@ -5,7 +5,7 @@ title: Lecture 1 - Introduction to Responsible AI
 tldr: "Overview of AI history, example models (NLP/LLM, Computer Vision, Robotics), and core challenges in responsible AI: explainability, uncertainty, and potential harms"
 thumbnail: /static_files/presentations/lec.jpg
 links:
-    - url: /static_files/presentations/lecture_1.pdf
+    - url: #/static_files/presentations/lecture_1.pdf
       name: slides
 ---
 **Topics Covered:**

@@ -5,7 +5,7 @@ title: Lecture 4 - Uncertainty in AI
 tldr: "Why AI models make mistakes by categorizing and measuring different types of uncertainty"
 thumbnail: /static_files/presentations/lec.jpg
 links:
-    - url: /static_files/presentations/lecture_4.pdf
+    - url: #/static_files/presentations/lecture_4.pdf
       name: slides
 ---
 **Topics Covered:**

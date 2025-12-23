@@ -5,7 +5,7 @@ title: Lecture 6 - Backdoor Attacks in AI
 tldr: "Backdoor Attacks, a form of data poisoning where a model is trained to behave normally on clean data but perform specific malicious actions when a hidden trigger is present."
 thumbnail: /static_files/presentations/lec.jpg
 links:
-    - url: /static_files/presentations/lecture_6.pdf
+    - url: #/static_files/presentations/lecture_6.pdf
       name: slides
 ---
 **Topics Covered:**
