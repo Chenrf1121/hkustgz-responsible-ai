@@ -1,14 +1,14 @@
 ---
 type: lecture
 date: 2025-11-17T10:00:00+8:00
-title: Lecture 11 - LLM-based Agentic Systems
-tldr: "This lecture explores the transition from static Large Language Models (LLMs) to autonomous agents that can reason, use tools, and interact with the world"
+title: Lecture 11 - Responsible Agentic System
+tldr: "This lecture investigates the technical, ethical, and management-level risks associated with agentic systems and presents frameworks for building responsible, secure, and auditable AI agents"
 thumbnail: /static_files/presentations/lec.jpg
 links:
-    - url: #/static_files/presentations/lecture_12_agentic_systems.pdf
+    - url: /static_files/presentations/lecture_11.pptx
       name: slides
 ---
 **Topics Covered:**
-- From LLM to Agent
-- Agentic Architectures
-- Multi-Agent Systems
+- Risks and Challenges in Agentic Systems
+- Security Attacks (Memory Extraction and Prompt Injection)
+- Mitigation Strategies and Auditing Mechanisms
